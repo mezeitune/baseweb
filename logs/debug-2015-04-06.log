@@ -1,0 +1,123 @@
+[06-04-2015 09:47:09] #DEBUG# obtParametros
+[06-04-2015 09:47:09] #DEBUG# CALL verificarLogin(:id, :hash)
+[06-04-2015 09:47:09] #DEBUG# CALL obtOpcionesMenu
+[06-04-2015 09:47:09] #DEBUG# Usuario Object
+(
+    [id:Usuario:private] => 
+    [username:Usuario:private] => 
+    [pass:Usuario:private] => 
+    [email:Usuario:private] => 
+    [nivel:Usuario:private] => 
+    [hash:Usuario:private] => 
+    [logueado:Usuario:private] => 
+    [cambiarPass:Usuario:private] => 
+)
+
+[06-04-2015 09:47:12] #DEBUG# obtParametros
+[06-04-2015 09:47:12] #DEBUG# CALL verificarLogin(:id, :hash)
+[06-04-2015 09:47:12] #DEBUG# CALL obtOpcionesMenu
+[06-04-2015 09:47:12] #DEBUG# Usuario Object
+(
+    [id:Usuario:private] => 
+    [username:Usuario:private] => 
+    [pass:Usuario:private] => 
+    [email:Usuario:private] => 
+    [nivel:Usuario:private] => 
+    [hash:Usuario:private] => 
+    [logueado:Usuario:private] => 
+    [cambiarPass:Usuario:private] => 
+)
+
+[06-04-2015 09:47:14] #DEBUG# obtParametros
+[06-04-2015 09:47:14] #DEBUG# CALL verificarLogin(:id, :hash)
+[06-04-2015 09:47:14] #DEBUG# CALL login(:username, :pass_md5)
+[06-04-2015 09:47:14] #DEBUG# obtParametros
+[06-04-2015 09:47:14] #DEBUG# CALL verificarLogin(:id, :hash)
+[06-04-2015 09:47:14] #DEBUG# CALL obtOpcionesMenu
+[06-04-2015 09:47:14] #DEBUG# Usuario Object
+(
+    [id:Usuario:private] => VjBFOVBRPT0-
+    [username:Usuario:private] => admin
+    [pass:Usuario:private] => 
+    [email:Usuario:private] => 
+    [nivel:Usuario:private] => A
+    [hash:Usuario:private] => dee4d994cc2c819d0278e35188e607a0
+    [logueado:Usuario:private] => 1
+    [cambiarPass:Usuario:private] => N
+)
+
+[06-04-2015 09:47:16] #DEBUG# obtParametros
+[06-04-2015 09:47:16] #DEBUG# CALL verificarLogin(:id, :hash)
+[06-04-2015 09:47:16] #DEBUG# CALL obtOpcionesMenu
+[06-04-2015 09:47:17] #DEBUG# Usuario Object
+(
+    [id:Usuario:private] => VjBFOVBRPT0-
+    [username:Usuario:private] => admin
+    [pass:Usuario:private] => 
+    [email:Usuario:private] => 
+    [nivel:Usuario:private] => A
+    [hash:Usuario:private] => dee4d994cc2c819d0278e35188e607a0
+    [logueado:Usuario:private] => 1
+    [cambiarPass:Usuario:private] => N
+)
+
+[06-04-2015 11:38:22] #DEBUG# obtParametros
+[06-04-2015 11:38:22] #DEBUG# CALL verificarLogin(:id, :hash)
+[06-04-2015 11:38:22] #DEBUG# CALL obtOpcionesMenu
+[06-04-2015 11:38:22] #DEBUG# Usuario Object
+(
+    [id:Usuario:private] => 
+    [username:Usuario:private] => 
+    [pass:Usuario:private] => 
+    [email:Usuario:private] => 
+    [nivel:Usuario:private] => 
+    [hash:Usuario:private] => 
+    [logueado:Usuario:private] => 
+    [cambiarPass:Usuario:private] => 
+)
+
+[06-04-2015 11:38:25] #DEBUG# obtParametros
+[06-04-2015 11:38:25] #DEBUG# CALL verificarLogin(:id, :hash)
+[06-04-2015 11:38:25] #DEBUG# CALL obtOpcionesMenu
+[06-04-2015 11:38:25] #DEBUG# Usuario Object
+(
+    [id:Usuario:private] => 
+    [username:Usuario:private] => 
+    [pass:Usuario:private] => 
+    [email:Usuario:private] => 
+    [nivel:Usuario:private] => 
+    [hash:Usuario:private] => 
+    [logueado:Usuario:private] => 
+    [cambiarPass:Usuario:private] => 
+)
+
+[06-04-2015 11:40:58] #DEBUG# obtParametros
+[06-04-2015 11:40:58] #DEBUG# CALL verificarLogin(:id, :hash)
+[06-04-2015 11:40:58] #DEBUG# CALL obtOpcionesMenu
+[06-04-2015 11:40:58] #DEBUG# Usuario Object
+(
+    [id:Usuario:private] => 
+    [username:Usuario:private] => 
+    [pass:Usuario:private] => 
+    [email:Usuario:private] => 
+    [nivel:Usuario:private] => 
+    [hash:Usuario:private] => 
+    [logueado:Usuario:private] => 
+    [cambiarPass:Usuario:private] => 
+)
+
+[06-04-2015 11:42:28] #DEBUG# obtParametros
+[06-04-2015 11:42:28] #DEBUG# CALL verificarLogin(:id, :hash)
+[06-04-2015 11:42:28] #DEBUG# CALL obtOpcionesMenu
+[06-04-2015 11:42:28] #DEBUG# Usuario Object
+(
+    [id:Usuario:private] => 
+    [username:Usuario:private] => 
+    [pass:Usuario:private] => 
+    [email:Usuario:private] => 
+    [nivel:Usuario:private] => 
+    [hash:Usuario:private] => 
+    [logueado:Usuario:private] => 
+    [cambiarPass:Usuario:private] => 
+)
+

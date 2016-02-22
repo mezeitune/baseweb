@@ -1,0 +1,123 @@
+[24-09-2015 08:49:57] #DEBUG# obtParametros
+[24-09-2015 08:49:57] #DEBUG# CALL verificarLogin(:id, :hash)
+[24-09-2015 08:49:57] #DEBUG# CALL obtOpcionesMenu
+[24-09-2015 08:49:57] #DEBUG# Usuario Object
+(
+    [id:Usuario:private] => 
+    [username:Usuario:private] => 
+    [pass:Usuario:private] => 
+    [email:Usuario:private] => 
+    [nivel:Usuario:private] => 
+    [hash:Usuario:private] => 
+    [logueado:Usuario:private] => 
+    [cambiarPass:Usuario:private] => 
+)
+
+[24-09-2015 08:49:58] #DEBUG# obtParametros
+[24-09-2015 08:49:58] #DEBUG# CALL verificarLogin(:id, :hash)
+[24-09-2015 08:49:58] #DEBUG# CALL obtOpcionesMenu
+[24-09-2015 08:49:58] #DEBUG# Usuario Object
+(
+    [id:Usuario:private] => 
+    [username:Usuario:private] => 
+    [pass:Usuario:private] => 
+    [email:Usuario:private] => 
+    [nivel:Usuario:private] => 
+    [hash:Usuario:private] => 
+    [logueado:Usuario:private] => 
+    [cambiarPass:Usuario:private] => 
+)
+
+[24-09-2015 08:50:00] #DEBUG# obtParametros
+[24-09-2015 08:50:00] #DEBUG# CALL verificarLogin(:id, :hash)
+[24-09-2015 08:50:00] #DEBUG# CALL login(:username, :pass_md5)
+[24-09-2015 08:50:19] #DEBUG# obtParametros
+[24-09-2015 08:50:19] #DEBUG# CALL verificarLogin(:id, :hash)
+[24-09-2015 08:50:19] #DEBUG# CALL obtOpcionesMenu
+[24-09-2015 08:50:19] #DEBUG# Usuario Object
+(
+    [id:Usuario:private] => VjBFOVBRPT0-
+    [username:Usuario:private] => admin
+    [pass:Usuario:private] => 
+    [email:Usuario:private] => 
+    [nivel:Usuario:private] => A
+    [hash:Usuario:private] => 9c29933a1ed9572f603e7e40dc79cf96
+    [logueado:Usuario:private] => 1
+    [cambiarPass:Usuario:private] => N
+)
+
+[24-09-2015 08:50:22] #DEBUG# obtParametros
+[24-09-2015 08:50:22] #DEBUG# CALL verificarLogin(:id, :hash)
+[24-09-2015 08:50:22] #DEBUG# CALL login(:username, :pass_md5)
+[24-09-2015 08:52:43] #DEBUG# obtParametros
+[24-09-2015 08:52:43] #DEBUG# CALL verificarLogin(:id, :hash)
+[24-09-2015 08:52:43] #DEBUG# CALL obtOpcionesMenu
+[24-09-2015 08:52:43] #DEBUG# Usuario Object
+(
+    [id:Usuario:private] => VjBFOVBRPT0-
+    [username:Usuario:private] => admin
+    [pass:Usuario:private] => 
+    [email:Usuario:private] => 
+    [nivel:Usuario:private] => A
+    [hash:Usuario:private] => b6c340ea735e650986a2babf3fe309d8
+    [logueado:Usuario:private] => 1
+    [cambiarPass:Usuario:private] => N
+)
+
+[24-09-2015 08:52:45] #DEBUG# obtParametros
+[24-09-2015 08:52:45] #DEBUG# CALL verificarLogin(:id, :hash)
+[24-09-2015 08:52:45] #DEBUG# CALL login(:username, :pass_md5)
+[24-09-2015 08:52:50] #DEBUG# obtParametros
+[24-09-2015 08:52:50] #DEBUG# CALL verificarLogin(:id, :hash)
+[24-09-2015 08:52:50] #DEBUG# CALL obtOpcionesMenu
+[24-09-2015 08:52:50] #DEBUG# Usuario Object
+(
+    [id:Usuario:private] => VjBFOVBRPT0-
+    [username:Usuario:private] => admin
+    [pass:Usuario:private] => 
+    [email:Usuario:private] => 
+    [nivel:Usuario:private] => A
+    [hash:Usuario:private] => e80063e4830e2fd57d7a58920da5f5a0
+    [logueado:Usuario:private] => 1
+    [cambiarPass:Usuario:private] => N
+)
+
+[24-09-2015 08:52:53] #DEBUG# obtParametros
+[24-09-2015 08:52:53] #DEBUG# CALL verificarLogin(:id, :hash)
+[24-09-2015 08:52:53] #DEBUG# CALL login(:username, :pass_md5)
+[24-09-2015 08:57:44] #DEBUG# obtParametros
+[24-09-2015 08:57:44] #DEBUG# CALL verificarLogin(:id, :hash)
+[24-09-2015 08:57:44] #DEBUG# CALL obtOpcionesMenu
+[24-09-2015 08:57:44] #DEBUG# Usuario Object
+(
+    [id:Usuario:private] => VjBFOVBRPT0-
+    [username:Usuario:private] => admin
+    [pass:Usuario:private] => 
+    [email:Usuario:private] => 
+    [nivel:Usuario:private] => A
+    [hash:Usuario:private] => 1047e9c27ca8d22ee953c90a9b6b7c4c
+    [logueado:Usuario:private] => 1
+    [cambiarPass:Usuario:private] => N
+)
+
+[24-09-2015 08:57:45] #DEBUG# obtParametros
+[24-09-2015 08:57:45] #DEBUG# CALL verificarLogin(:id, :hash)
+[24-09-2015 08:57:45] #DEBUG# CALL login(:username, :pass_md5)
+[24-09-2015 08:58:07] #DEBUG# obtParametros
+[24-09-2015 08:58:07] #DEBUG# CALL verificarLogin(:id, :hash)
+[24-09-2015 08:58:07] #DEBUG# CALL obtOpcionesMenu
+[24-09-2015 08:58:07] #DEBUG# Usuario Object
+(
+    [id:Usuario:private] => VjBFOVBRPT0-
+    [username:Usuario:private] => admin
+    [pass:Usuario:private] => 
+    [email:Usuario:private] => 
+    [nivel:Usuario:private] => A
+    [hash:Usuario:private] => dbe9a0762ebb93c5abd81f31beeaecf1
+    [logueado:Usuario:private] => 1
+    [cambiarPass:Usuario:private] => N
+)
+
+[24-09-2015 08:58:08] #DEBUG# obtParametros
+[24-09-2015 08:58:08] #DEBUG# CALL verificarLogin(:id, :hash)
+[24-09-2015 08:58:08] #DEBUG# CALL login(:username, :pass_md5)

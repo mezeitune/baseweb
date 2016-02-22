@@ -1,0 +1,15 @@
+[11-12-2015 08:11:27] #DEBUG# obtParametros
+[11-12-2015 08:11:27] #DEBUG# CALL verificarLogin(:id, :hash)
+[11-12-2015 08:11:27] #DEBUG# CALL obtOpcionesMenu
+[11-12-2015 08:11:27] #DEBUG# Usuario Object
+(
+    [id:Usuario:private] => 
+    [username:Usuario:private] => 
+    [pass:Usuario:private] => 
+    [email:Usuario:private] => 
+    [nivel:Usuario:private] => 
+    [hash:Usuario:private] => 
+    [logueado:Usuario:private] => 
+    [cambiarPass:Usuario:private] => 
+)
+

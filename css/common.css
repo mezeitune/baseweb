@@ -1,0 +1,150 @@
+#map-canvas img {
+    max-width: none;
+}
+.brand {
+    padding-bottom: 0 !important;
+    padding-top: 0 !important;
+}
+.navbar-inner.navbar-conf{
+    background-image: none;
+}
+footer {
+    margin-top: 1%;
+}
+.form-control-feedback {
+    right: 11px !important;
+    top: 0  !important;
+}
+.icon-fix.mt{
+    margin-top: 8px;
+}
+.btn-fix.add{
+    margin-bottom: 10px;
+}
+.controls textarea {
+    max-width: 100%;
+}
+.span-bold {
+    font-size: 14px;
+    font-weight: bold;
+    padding-bottom: 14px;
+}
+.row-fix.mb{
+    margin-bottom: 10px;
+}
+.pagination {
+    text-align: center;
+}
+.pagination li{
+    cursor: pointer;
+}
+
+.odd td:last-child, .even td:last-child {
+    padding: 5px 25px;
+    width: 170px;
+}
+
+.table tbody tr.seleccionable{
+    cursor: pointer;
+}
+
+.table tbody tr.seleccionada > td {
+    background-color: #0077FF !important;
+    color: white;
+}
+
+.mensajes{
+    padding: 0 15%;
+    text-align: center;
+    width: 70%;
+}
+
+.h3-margin{
+    margin-left: 30px;
+}
+
+textarea {
+    max-width: 100px;
+    min-width: 100%;
+}
+
+.loading-info {
+    text-align: center;
+    padding: 95px 0;
+}
+
+.loading {
+    padding: 5px 0 15px;
+    display: none;
+}
+
+.loading-s{
+    border-radius: 4px 4px 4px 4px;
+    float: right;
+    height: 32px;
+    padding: 3px;
+    width: 32px;
+    z-index: 10000;    
+}
+
+.usuario{
+    border-radius: 4px 4px 4px 4px;
+    float: right;
+    height: 32px;
+    padding: 3px;
+    z-index: 10000;
+}
+
+.username {
+    /*color: white;*/
+    float: left;
+    font-weight: bold;
+    padding: 6px 10px 6px 6px;
+}
+
+.logout {
+    float: left;
+    padding-right: 6px;
+}
+.oculto{
+    display: none;
+}
+
+.div-load{
+    position: relative;
+}
+.div-loader {
+    background-color: whitesmoke;
+    background-image: url("../img/load.gif");
+    background-position: center center;
+    background-repeat: no-repeat;
+    bottom: 0;
+    left: 0;
+    opacity: 0.77;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.h-scroll{
+    max-width: 100%;
+    overflow-y: hidden;
+}
+
+.with-top{
+    margin-top: 10px;
+}
+
+.with-bottom{
+    margin-bottom: 10px;
+}
+
+.seeonhover{
+    display: none !important;
+}
+*:hover > .seeonhover{
+    display: block !important;
+}
+td:hover .seeonhover{
+    display: block !important;
+}
