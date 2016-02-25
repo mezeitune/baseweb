@@ -6,6 +6,6 @@ include_once 'util/util.php';
  * 
  * @author Agustin Arias <aarias@adoxweb.com.ar>
  */
-$titulo = "Bienvenido";
+$titulo = "Bienvenidos";
 include 'vistas/Home.php';
 ?>
