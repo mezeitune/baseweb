@@ -8,6 +8,8 @@ include_once 'util/util.php';
 $urlVolver = $_REQUEST["back"];
 $nivel = $_REQUEST["nivel"];
 
+
+
 $titulo = "Intento fallido de acceso";
 include 'vistas/SinAcceso.php';
 ?>
